@@ -1,0 +1,23 @@
+name: a fan of music
+favicon: null
+layout_spectrum: 0.7826423402875662
+typography_spectrum: 0.8750843037851155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6220418254379183
+  lightness: 0.9286265897098929
+  saturation: 0.9460487191099674
+  rhythmicContrast: 0.30898984824307263
+purpose: []
