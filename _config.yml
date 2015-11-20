@@ -1,24 +1,36 @@
-name: a fan of music
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8750843037851155
 title: Rick Rubin is a fan of music. This site is about Rick Rubin.
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0
+  brandColors: []
+  rhythmicContrast: 0.9946237
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: a fan of music
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 1
-  lightness: 0.9286265897098929
-  saturation: 0.9460487191099674
-  rhythmicContrast: 0.30898984824307263
-purpose: []
+typography_spectrum: 0.8750843037851155
+layout_spectrum: 1
